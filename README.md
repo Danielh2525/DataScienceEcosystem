@@ -1,3 +1,3 @@
 # DataScienceEcosystem
 
-This Repository contains my first Jupyter Notebook of the IBM Data Science Professional Certifictae Course.
+This Repository contains my projects for the IBM Data Science Course
